@@ -1,0 +1,7 @@
+LOG SUMMARY REPORT
+---------------------
+Total log entries: 16
+Total INFO messages: 9
+Total WARNING messages: 3
+Total ERROR messages: 3
+Total CRITICAL messages: 1
